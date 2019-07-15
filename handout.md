@@ -58,7 +58,7 @@
 
 ### Brain Health
 
-- Your brain is most likely dehydrated, continually distracted, and sleep deprived. These are literally in torture manuals as how to get people to crack. Please stop torturing yourself.
+- Your brain is most likely dehydrated, continually distracted, and sleep deprived. These are established torture techniques used to break people. *Cease torturing yourself!*
 
 - Stress is both good and bad. Too much stress (dis-stress) inhibits cognition and memory formation/retention/retreival. Other stress (eustress) lights a fire under your butt and you get things done. Lean into the good stress. Ghost the bad stress.
 
@@ -70,8 +70,7 @@
 
 ## Recommendations and Take-Aways
 
-- Nourish your brain with sleep, hydration, rest
-
-- Ghost your notifications. Turn as many of them off.
-
-- Stoke the fires of learning with 90% practice and 10% study
+- Nourish your brain with sleep, hydration, and rest. It pays off with **real results**.
+- Ghost your notifications. Turn off "engagement" in order to **tune in** to your own goals.
+- Be clear that consistency is **easier** and pays off **exponentially**.
+- Stoke the fires of learning with **90% practice and 10% study**.
