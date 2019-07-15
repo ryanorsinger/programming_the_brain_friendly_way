@@ -1,6 +1,7 @@
 # Programming the Brain Friendly Way
 
 ## Thought for the Day
+```js
 var quote = "Mathematics, you see, is not a spectator sport. 
     To understand mathematics means to be able to do mathematics. 
         And what does it mean to be doing mathematics? 
@@ -13,6 +14,7 @@ quote = quote.replace("Mathematics", "Programming")
              .replace("George Pólya", "Ryan Orsinger")
 
 console.log(quote);
+```
 
 ## Agenda
 1. Proper care and feeding of your brain
