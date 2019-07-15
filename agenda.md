@@ -1,4 +1,4 @@
-# Programming the Brain Friendly Way (and review session)
+# Programming the Brain Friendly Way
 
 ## Thought for the Day
 var quote = "Mathematics, you see, is not a spectator sport. 
@@ -17,11 +17,8 @@ console.log(quote);
 ## Agenda
 1. Proper care and feeding of your brain
     - Brain quiz
-    - Produce dramatically more output with dramatically less input
-    - How to program your subconscious mind
-    - 
+    - Produce dramatically more output with significantly less work
 
-2. Easy way to solve iterative looping problems
-
+2. The easy way to solve iterative looping problems
 
 3. Review Game
