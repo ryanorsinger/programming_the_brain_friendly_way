@@ -15,7 +15,7 @@
 
 ### Refocusing after interruption isn't linear
 
-![](/Users/xronos/programming_the_brain_friendly_way/effect_of_interruptions_on_focus.jpeg)
+![](./effect_of_interruptions_on_focus.jpeg)
 
 
 
@@ -25,11 +25,11 @@
 
 - Practice beats study for creating new connections between neurons
 
-  <img src="/Users/xronos/programming_the_brain_friendly_way/two-neurons-after-firing.png" height=200px>
+  <img src="./two-neurons-after-firing.png" height=200px>
 
 
 
-  <img src="/Users/xronos/programming_the_brain_friendly_way/passive-vs-active-learning.jpg">
+  <img src="./passive-vs-active-learning.jpg">
 
 ### Consistency Beats Intensity
 
@@ -54,7 +54,7 @@
 - That's why super ambitious diets and workout plans fail. They're not digestible.
 - Consistently aim for 5%-10% outside your comfort zone in the stretch zone.
 
-<img src="/Users/xronos/programming_the_brain_friendly_way/comfort_zone_diagram.png" height=250>
+<img src="./comfort_zone_diagram.png" height=250>
 
 ### Brain Health
 
